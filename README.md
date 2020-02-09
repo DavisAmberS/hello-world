@@ -1,4 +1,5 @@
-# hello-world
-This repository encompasses all of my python projects.
+# Mastering Python
 
-I'm a SWE newbie trying to teach myself python.
+This repository encompasses all of my python projects. 
+
+Have questions, or suggestions? Feel free to reach out to browngirltechworld@gmail.com, or @brwngrltechwrld on Twitter.
