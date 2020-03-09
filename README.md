@@ -6,4 +6,7 @@ Have questions, or suggestions? Feel free to reach out to browngirltechworld@gma
 
 ## 30 Days of Python:
 Day 1: Calculator Project | https://github.com/browngirltechworld/mastering-python/blob/master/calculator.py
+Day 2:
+Day 3:
+Day 4:
 
